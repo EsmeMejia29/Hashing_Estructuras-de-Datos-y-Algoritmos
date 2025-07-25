@@ -1,0 +1,14 @@
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\HashPerfectClosed\DemoVotacionRapida\obj\Debug\DemoHashPerfectClosed.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\HashPerfectClosed\DemoVotacionRapida\obj\Debug\DemoHashPerfectClosed.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\HashPerfectClosed\DemoVotacionRapida\obj\Debug\DemoVotacionRapida.exe
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\HashPerfectClosed\DemoVotacionRapida\obj\Debug\DemoVotacionRapida.pdb
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\HashPerfectClosed\DemoVotacionRapida\bin\Debug\DemoVotacionRapida.exe.config
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\HashPerfectClosed\DemoVotacionRapida\bin\Debug\DemoVotacionRapida.exe
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\HashPerfectClosed\DemoVotacionRapida\bin\Debug\DemoVotacionRapida.pdb
+C:\Users\super\Downloads\HashPerfectClosedZIP (2)\HashPerfectClosedZIP\HashPerfectClosed\DemoVotacionRapida\obj\Debug\DemoHashPerfectClosed.csproj.AssemblyReference.cache
+C:\Users\super\Downloads\HashPerfectClosedZIP (2)\HashPerfectClosedZIP\HashPerfectClosed\DemoVotacionRapida\obj\Debug\DemoHashPerfectClosed.csproj.CoreCompileInputs.cache
+C:\Users\super\Downloads\HashPerfectClosedZIP (2)\HashPerfectClosedZIP\HashPerfectClosed\DemoVotacionRapida\obj\Debug\DemoVotacionRapida.exe
+C:\Users\super\Downloads\HashPerfectClosedZIP (2)\HashPerfectClosedZIP\HashPerfectClosed\DemoVotacionRapida\obj\Debug\DemoVotacionRapida.pdb
+C:\Users\super\Downloads\HashPerfectClosedZIP (2)\HashPerfectClosedZIP\HashPerfectClosed\DemoVotacionRapida\bin\Debug\DemoVotacionRapida.exe.config
+C:\Users\super\Downloads\HashPerfectClosedZIP (2)\HashPerfectClosedZIP\HashPerfectClosed\DemoVotacionRapida\bin\Debug\DemoVotacionRapida.exe
+C:\Users\super\Downloads\HashPerfectClosedZIP (2)\HashPerfectClosedZIP\HashPerfectClosed\DemoVotacionRapida\bin\Debug\DemoVotacionRapida.pdb

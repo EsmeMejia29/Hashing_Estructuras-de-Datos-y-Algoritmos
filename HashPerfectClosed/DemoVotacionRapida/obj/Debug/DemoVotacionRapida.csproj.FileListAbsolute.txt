@@ -1,0 +1,7 @@
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\DemoVotacionRapida\DemoVotacionRapida\bin\Debug\DemoVotacionRapida.exe.config
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\DemoVotacionRapida\DemoVotacionRapida\bin\Debug\DemoVotacionRapida.exe
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\DemoVotacionRapida\DemoVotacionRapida\bin\Debug\DemoVotacionRapida.pdb
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\DemoVotacionRapida\DemoVotacionRapida\obj\Debug\DemoVotacionRapida.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\DemoVotacionRapida\DemoVotacionRapida\obj\Debug\DemoVotacionRapida.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\DemoVotacionRapida\DemoVotacionRapida\obj\Debug\DemoVotacionRapida.exe
+C:\Users\super\OneDrive\Documentos\ESEN\2025\Ciclo 2\EDA\DemoVotacionRapida\DemoVotacionRapida\obj\Debug\DemoVotacionRapida.pdb
